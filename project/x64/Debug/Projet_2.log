@@ -1,0 +1,13 @@
+﻿  config_sdl.cpp
+  Source-projet2.cpp
+C:\Users\hedim\Desktop\Dev\Programmation\Sokoban One piece\sokoban-one-piece-c\project\Source-projet2.cpp(1,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+C:\Users\hedim\Desktop\Dev\Programmation\Sokoban One piece\sokoban-one-piece-c\project\Source-projet2.cpp(5,12): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+C:\Users\hedim\Desktop\Dev\Programmation\Sokoban One piece\sokoban-one-piece-c\project\Source-projet2.cpp(24,6): warning C4101: 'texture_theme' : variable locale non référencée
+C:\Users\hedim\Desktop\Dev\Programmation\Sokoban One piece\sokoban-one-piece-c\project\Source-projet2.cpp(14,11): warning C4101: 'carre' : variable locale non référencée
+C:\Users\hedim\Desktop\Dev\Programmation\Sokoban One piece\sokoban-one-piece-c\project\Source-projet2.cpp(889,11): warning C4101: 'Affiche' : variable locale non référencée
+C:\Users\hedim\Desktop\Dev\Programmation\Sokoban One piece\sokoban-one-piece-c\project\Source-projet2.cpp(1073,7): warning C4101: 'score_c' : variable locale non référencée
+C:\Users\hedim\Desktop\Dev\Programmation\Sokoban One piece\sokoban-one-piece-c\project\Source-projet2.cpp(1112,12): warning C4101: 'event' : variable locale non référencée
+  Génération de code en cours...
+C:\Users\hedim\Desktop\Dev\Programmation\Sokoban One piece\sokoban-one-piece-c\project\Source-projet2.cpp(147): warning C4715: 'initialisation' : les chemins de contrôle ne retournent pas tous une valeur
+C:\Users\hedim\Desktop\Dev\Programmation\Sokoban One piece\sokoban-one-piece-c\project\Source-projet2.cpp(1362): warning C4715: 'verif_score' : les chemins de contrôle ne retournent pas tous une valeur
+  Projet_2.vcxproj -> C:\Users\hedim\Desktop\Dev\Programmation\Sokoban One piece\sokoban-one-piece-c\project\x64\Debug\Projet_2.exe
